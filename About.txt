@@ -1,1 +1,2 @@
-This is the repository where we have Vagrant files and vagrant command files to install the linux servers using Vagrant and Virtual box.
+This is the repository where we have Vagrant files and vagrant command files to install the linux servers using Vagrant and Virtual box. 
+Please use the files to build linux servers.
